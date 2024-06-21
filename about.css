@@ -1,0 +1,22 @@
+h2{
+    text-align: center;
+    justify-content: center;
+    color: aquamarine;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: oblique;
+}
+
+img{
+    height: 500px;
+    width: 100%;
+}
+
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    margin-bottom: 2rem;
+}
+
+body{
+    background-color: #e8c47d;
+}
